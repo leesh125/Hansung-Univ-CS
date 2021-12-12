@@ -7,5 +7,5 @@ Senior Second Semester
   <li>Algorithm</li>
   <li>Basis of Big Data</li>
   <li>Big Data in Life</li>
-  <li>Game Graphic & Animation</li>
+  <li>Game Graphics & Animation</li>
 </ul>
